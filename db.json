@@ -3,6 +3,18 @@
         {
             "id": 1,
             "name": "Naruto Uzumaki"
+        },
+        {
+            "id": 2,
+            "name": "Sasuke Uchiha"
+        },
+        {
+            "id": 3,
+            "name": "Kakashi Hatake"
+        },
+        {
+            "id": 4,
+            "name": "Rock Lee"
         }
     ]
 }
