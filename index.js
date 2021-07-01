@@ -1,8 +1,9 @@
-const URL = 'https://foodish-api.herokuapp.com/'
+const URL = ''
 
 fetch(URL)
 .then(response => response.json())
 .then(data => {
     console.log(data)
+    
 
 })
