@@ -12,5 +12,14 @@ fetch(URL)
         ul.append(li);
 
     })
+  
+  function holdTheGlass() {
+    const ul =document.querySelector('#hunter-names');
+    const interhunters = `${hunter.id} ${hunter.name} ${hunter.category}
+    if (interhunters.category = Enhancer)
+    "The water is overflowing!"
+    
+  }
+  document.getElementById("Gon").addEventListener("click", function())
 
 })
