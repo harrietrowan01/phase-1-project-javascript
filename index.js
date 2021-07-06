@@ -7,7 +7,9 @@ fetch(URL)
     const ul = document.querySelector('#hunter-names');
     data.forEach(hunter => {
       const interhunters = `${hunter.id} ${hunter.name}`;
-        ul.append(interhunters);
+      const li = document.createElement('li')
+      li.textContent = interhunters
+        ul.append(li);
 
     })
 
