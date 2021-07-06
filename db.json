@@ -1,20 +1,29 @@
 {
-    "villagers" : [
+    "hunters" : [
         {
             "id": 1,
-            "name": "Naruto Uzumaki"
+            "name": "Gon Freecss",
+            "category": "Enhancer"
         },
         {
             "id": 2,
-            "name": "Sasuke Uchiha"
+            "name": "Killua Zoldyck",
+            "category": "Transmuter"
         },
         {
             "id": 3,
-            "name": "Kakashi Hatake"
+            "name": "Hisoka Morow",
+            "category": "Transmuter"
         },
         {
             "id": 4,
-            "name": "Rock Lee"
+            "name": "Illumi Zoldyck",
+            "category": "Manipulator"
+        },
+        {
+            "id": 5,
+            "name": "Chrollo Lucilfer",
+            "category": "Specialist"
         }
     ]
 }
