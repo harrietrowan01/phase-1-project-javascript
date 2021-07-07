@@ -51,12 +51,15 @@ button {
     border-radius: 40px;
     background-color: #65a765;
     text-align: center;
-    margin-left: 10%;
-    margin-right: 50%;
+    margin-left: 50%;
+    /* margin-right: 50%; */
     margin-bottom: 5%;
     color: beige;
     width: max-content;
     box-shadow: 0 8px 16px grey;
+    position: relative;
+    left: -55px;
+
 }
 
 input {

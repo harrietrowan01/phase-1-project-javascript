@@ -2,31 +2,31 @@
     "hunters" : [
         {
             "id": 1,
-            "name": "Gon Freecss",
+            "name": "Gon",
             "category": "Enhancer",
             "specialty": "Jajanken"
         },
         {
             "id": 2,
-            "name": "Killua Zoldyck",
+            "name": "Killua",
             "category": "Transmuter",
             "specialty": "Godspeed"
         },
         {
             "id": 3,
-            "name": "Hisoka Morow",
+            "name": "Hisoka",
             "category": "Transmuter",
             "specialty": "Bungee Gum"
         },
         {
             "id": 4,
-            "name": "Illumi Zoldyck",
+            "name": "Illumi",
             "category": "Manipulator",
             "specialty": "Mind Controll"
         },
         {
             "id": 5,
-            "name": "Chrollo Lucilfer",
+            "name": "Chrollo",
             "category": "Specialist",
             "specialty": "Intelligence"
         }
