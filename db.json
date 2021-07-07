@@ -3,27 +3,32 @@
         {
             "id": 1,
             "name": "Gon Freecss",
-            "category": "Enhancer"
+            "category": "Enhancer",
+            "specialty": "Jajanken"
         },
         {
             "id": 2,
             "name": "Killua Zoldyck",
-            "category": "Transmuter"
+            "category": "Transmuter",
+            "specialty": "Godspeed"
         },
         {
             "id": 3,
             "name": "Hisoka Morow",
-            "category": "Transmuter"
+            "category": "Transmuter",
+            "specialty": "Bungee Gum"
         },
         {
             "id": 4,
             "name": "Illumi Zoldyck",
-            "category": "Manipulator"
+            "category": "Manipulator",
+            "specialty": "Mind Controll"
         },
         {
             "id": 5,
             "name": "Chrollo Lucilfer",
-            "category": "Specialist"
+            "category": "Specialist",
+            "specialty": "Intelligence"
         }
     ]
 }
