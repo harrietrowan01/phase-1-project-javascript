@@ -1,0 +1,12 @@
+## Project Proposal
+
+A website based of the anime Hunter x Hunter that allows you to check hunters' aura using the Water Divination test.
+
+## MVP
+-A user can load the webpage and see the list of hunters and their specialties.
+-A user can click on the button with the name of the hunter and see how their aura affects the glass of water.
+
+## Stretch
+-Users can answer a multiple choice question based on the results of the button click.
+-Checkboxes will turn green for correct answers and red for incorrect answers.
+-Styling
